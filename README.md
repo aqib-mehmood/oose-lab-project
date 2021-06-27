@@ -1,2 +1,1 @@
-# php-learning
-Learning the basics of php
+# OOSE lab project
